@@ -1,4 +1,11 @@
-Existem dois projetos neste repositório.
+# Projeto django com arquivo requirements.txt
 
-  Projeto Django se encontra na branch Django
-  Projeto Invista-me se encontra na branch master.
+O que o projeto faz!
+  lista automaticamente produtos ou serviços
+  adicionar data mais valores 
+  salva automaticamente em um banco de dados
+
+  O usuário pode adicionar conteúdo a lista.
+
+  Somente o usuário cadastradro pode modificar e deletar a lista já populada.
+
